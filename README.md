@@ -46,6 +46,8 @@ potenciómetro varíe entre sus valores mínimo y máximo.
 b. Si R2 se ajusta para tener 2.5 k ¿cuál será el voltaje VL? Si se remueve el
 resistor de carga.
 
+![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/EJERCICIO%2027.png)
+
 
 
 
