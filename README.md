@@ -9,7 +9,7 @@ A)
  
 B)
 
-![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/EJERCICIO%203%20LITERAL%20B.png)
+![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/CAPITULO%207/EJERCICIO%203%20LITERAL%20B.png)
 
 7-2 Análisis de circuitos en serie-paralelo
 
