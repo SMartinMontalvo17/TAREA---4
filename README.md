@@ -34,7 +34,7 @@ A)
 
 21. En el circuito de la figura 7-64 determine VB, IC y VCE.
 
-![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/EJERCICIO%2021.png)
+![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/CAPITULO%207/EJERCICIO%2021.png)
 
 7-4 Potenciómetros
 
