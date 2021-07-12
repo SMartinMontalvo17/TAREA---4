@@ -76,6 +76,13 @@ c. Determine el voltaje Vab.
 
 ![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/CAPITULO%208/C8%20EJERCICIO%2013.png)
 
+8-3 Fuentes de corriente en paralelo y en serie
+
+8-4 Análisis de corriente de rama
+
+19. Escriba las ecuaciones de corriente de rama para el circuito de la figura 8-79 y
+encuentre las corrientes de rama mediante determinantes.
+
 
 
 
