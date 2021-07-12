@@ -48,6 +48,7 @@ resistor de carga.
 
 ![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/EJERCICIO%2027.png)
 
+33. En el circuito de la figura 7-72 calcule el voltaje de salida Vsal cuando RL= 0ohm, 250 ohmios y 500 ohmios.
 
 
 
