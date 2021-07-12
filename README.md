@@ -92,6 +92,9 @@ encuentre las corrientes de rama mediante determinantes.
 
 ![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/CAPITULO%208/C8%20EJERCICIO%2025.png)
 
+31. Escriba las ecuaciones de malla para la red de la figura 8-86. Encuentre las
+corrientes de lazo con determinantes.
+
 
 
 
