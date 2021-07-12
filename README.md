@@ -64,6 +64,7 @@ CAPÍTULO 8
 las potencias disipadas por los resistores en el circuito de la figura 8-68.
 
 ![](
+cabe mencionar que que la fuente absorbe la enegia en el circuito.
 
 13. Vea el circuito de la figura 8-74:
 
@@ -101,6 +102,14 @@ corrientes de lazo con determinantes.
 
 37. Escriba las ecuaciones de nodos para el circuito de la figura 8-86 y encuentre V6
 
+![](
+
+43. Utilice las conversiones DELTA-Y o Y-DELTA, para encontrar la corriente I para el circuito de la figura 8-96.
+
+![](
+
+49. En el circuito puente de la figura 8-102 encuentre la corriente a través de cada
+resistor.
 
 
 
