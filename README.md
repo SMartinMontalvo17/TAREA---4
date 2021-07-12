@@ -132,6 +132,23 @@ resistor.
 
 
 
+**4.VIDEO**
+
+
+
+
+**5.CONCLUSIONES**
+
+
+
+
+
+**6.BIBLIOGRAFÍA**
+
+Robbins, A. H. (2008). Análisis de Circuitos Teoria y Practica. Santa Fe-Mexico: Cengage Learning.
+
+
+
 
 
 
