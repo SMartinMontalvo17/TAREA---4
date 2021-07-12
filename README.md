@@ -28,7 +28,7 @@ potencias disipadas por los resistores.
 
 A)
 
-![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/EJERCICIO%2015%20LITERAL%20A.png)
+![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/CAPITULO%207/EJERCICIO%2015%20LITERAL%20A.png)
 
 7-3 Aplicaciones de los circuitos en serie-paralelo
 
