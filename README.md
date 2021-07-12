@@ -30,4 +30,11 @@ A)
 
 ![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/EJERCICIO%2015%20LITERAL%20A.png)
 
+7-3 Aplicaciones de los circuitos en serie-paralelo
+
+21. En el circuito de la figura 7-64 determine VB, IC y VCE.
+
+
+
+
 
