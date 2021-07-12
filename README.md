@@ -58,6 +58,8 @@ CAPÍTULO 8
 
 1. Encuentre el voltaje VS para el circuito de la figura 8-64.
 
+![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/C8%20EJERCICIO%201.png)
+
 
 
 
