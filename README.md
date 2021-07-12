@@ -90,6 +90,8 @@ encuentre las corrientes de rama mediante determinantes.
 25. Escriba las ecuaciones de malla para el circuito que se muestra en la figura
 8-79 y encuentre las corrientes de lazo.
 
+![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/CAPITULO%208/C8%20EJERCICIO%2025.png)
+
 
 
 
