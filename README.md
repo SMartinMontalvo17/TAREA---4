@@ -1,5 +1,24 @@
 # TAREA---4
 
+AUTORES : 
+          
+          TOAPANTA ANABEL
+
+          MONTALVO STEVE
+
+          MEJIA CESAR 
+
+
+**1.OBJETIVOS**
+
+
+
+Objetivos Específicos
+
+
+
+**2.MARCO TEÓRICO**
+
 
 3. Escriba una expresión para RT1 y RT2 para las redes de la figura 7-48.
 
