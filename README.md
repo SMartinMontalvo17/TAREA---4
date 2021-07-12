@@ -14,7 +14,7 @@ B)
 7-2 Análisis de circuitos en serie-paralelo
 
 9. Calcule la resistencia Rab y Rcd en el circuito de la figura 7-52.
-![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/EJERCICIO%209.png)
+![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/CAPITULO%207/EJERCICIO%209.png)
 
 
 15. Vea los circuitos de la figura 7-58:
