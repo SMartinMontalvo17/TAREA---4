@@ -63,6 +63,8 @@ CAPÍTULO 8
 7. Verifique que la potencia suministrada por las fuentes es igual a la suma de
 las potencias disipadas por los resistores en el circuito de la figura 8-68.
 
+![](
+
 13. Vea el circuito de la figura 8-74:
 
 a. Convierta la fuente de corriente y el resistor de 330  en su fuente de voltaje
