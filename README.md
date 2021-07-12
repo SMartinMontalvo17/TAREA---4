@@ -72,6 +72,8 @@ b. Encuentre la corriente I a través de RL.
 
 c. Determine el voltaje Vab.
 
+![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/CAPITULO%208/C8%20EJERCICIO%2013.png)
+
 
 
 
