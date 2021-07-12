@@ -63,7 +63,7 @@ CAPÍTULO 8
 7. Verifique que la potencia suministrada por las fuentes es igual a la suma de
 las potencias disipadas por los resistores en el circuito de la figura 8-68.
 
-![](
+![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/CAPITULO%208/C8%20EJERCICIO%207.png)
 cabe mencionar que que la fuente absorbe la enegia en el circuito.
 
 13. Vea el circuito de la figura 8-74:
