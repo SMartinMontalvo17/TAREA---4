@@ -34,6 +34,18 @@ A)
 
 21. En el circuito de la figura 7-64 determine VB, IC y VCE.
 
+![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/EJERCICIO%2021.png)
+
+7-4 Potenciómetros
+
+27. Vea el circuito de la figura 7-69:
+
+a. Determine el intervalo de voltajes que aparecerán en RL a medida que el
+potenciómetro varíe entre sus valores mínimo y máximo.
+
+b. Si R2 se ajusta para tener 2.5 k ¿cuál será el voltaje VL? Si se remueve el
+resistor de carga.
+
 
 
 
