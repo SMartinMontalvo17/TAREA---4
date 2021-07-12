@@ -5,7 +5,7 @@
 
 A)
 
- ![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/EJERCICIO%203%20LITERAL%20A.png)
+ ![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/CAPITULO%207/EJERCICIO%203%20LITERAL%20A.png)
  
 B)
 
