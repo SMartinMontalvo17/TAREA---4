@@ -83,6 +83,8 @@ c. Determine el voltaje Vab.
 19. Escriba las ecuaciones de corriente de rama para el circuito de la figura 8-79 y
 encuentre las corrientes de rama mediante determinantes.
 
+![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/CAPITULO%208/C8%20EJERCICIO%2019.png)
+
 
 
 
