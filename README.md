@@ -46,7 +46,7 @@ potenciómetro varíe entre sus valores mínimo y máximo.
 b. Si R2 se ajusta para tener 2.5 k ¿cuál será el voltaje VL? Si se remueve el
 resistor de carga.
 
-![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/EJERCICIO%2027.png)
+![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/CAPITULO%207/EJERCICIO%2027.png)
 
 33. En el circuito de la figura 7-72 calcule el voltaje de salida Vsal cuando RL= 0ohm, 250 ohmios y 500 ohmios.
 
