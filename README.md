@@ -20,6 +20,11 @@ Objetivos Específicos
 **2.MARCO TEÓRICO**
 
 
+
+**3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
+
+CAPÍTULO 7
+
 3. Escriba una expresión para RT1 y RT2 para las redes de la figura 7-48.
 
 A)
