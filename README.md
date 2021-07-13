@@ -130,7 +130,7 @@ corrientes de lazo con determinantes.
 
 43. Utilice las conversiones DELTA-Y o Y-DELTA, para encontrar la corriente I para el circuito de la figura 8-96.
 
-
+![](
 
 49. En el circuito puente de la figura 8-102 encuentre la corriente a través de cada
 resistor.
