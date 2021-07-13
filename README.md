@@ -24,6 +24,7 @@ Objetivos Específicos
 **3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
 CAPÍTULO 7
+1). ![image](https://user-images.githubusercontent.com/86367606/125389929-9a9c4000-e367-11eb-8c28-e385ffd315b1.png)
 
 3. Escriba una expresión para RT1 y RT2 para las redes de la figura 7-48.
 
